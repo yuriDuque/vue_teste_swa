@@ -1,10 +1,3 @@
-/**
- * Arquivo: src/components/pages/CreateTodo/CreateTodo.js
- * Data: 22/06/2020
- * Descrição: arquivo responsável por lidar com a lógica inerente ao componente 'CreateTodo'.
- * Autora: Glaucia Lemos
- */
-
 export default {
   name: 'CreateTodo',
   data() {

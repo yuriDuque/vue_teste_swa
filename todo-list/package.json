@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "author": "Glaucia Lemos",
+  "author": "Yuri Duque",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
